@@ -1,2 +1,4 @@
-# plan4food_dev
-technical documentation
+﻿
+# plan4food. Справка
+
+[О продукте](https://plan4food_dev.ru/)

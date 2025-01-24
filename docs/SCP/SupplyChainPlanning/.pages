@@ -1,0 +1,11 @@
+title: Планирование цепочек поставок
+collapse: false
+arrange:
+    - SchemeSCP.md
+    - Buffer.md
+    - ProvisionScheme.md
+    - ProductionResidues.md
+    - ScenariosForPlanningRequestsForTheDay.md
+    - SupplyChainPlanningScenarios.md
+    - PlanningRequestsForTheDay.md
+    - SupplyChainPlanning.md
